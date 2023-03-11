@@ -9,3 +9,5 @@ Them dong 8 on local master
 Them dong 9 on github/front
 Them dong 10 loCAL/front
 Them dong 11 local/backend
+Them dong 12: sau khi clone ve, edited and commit to github
+Them dong 13: pull and commit to github
